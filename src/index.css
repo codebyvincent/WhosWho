@@ -1,0 +1,13 @@
+ion-icon {
+  color: red;
+}
+
+/*
+phones
+*/
+
+@media (max-width: 34em) {
+  .card {
+    width: 100%;
+  }
+}
